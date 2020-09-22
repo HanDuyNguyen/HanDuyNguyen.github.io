@@ -3,7 +3,9 @@ My full name is Han Duy Nguyen. I am a Data Science enthusiast who is interested
 Currently, I am a sixth year PhD student at the Mathematical Science department, Carnegie Mellon University.
 
 
-### Markdown
+## Current Projects
+### Prostate Cancer Diagnosis, Kaggle
+
 You can use the [editor on GitHub](https://github.com/HanDuyNguyen/HanDuyNguyen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
