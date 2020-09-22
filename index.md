@@ -1,10 +1,12 @@
-## Welcome Han D. Nguyen's Project site
+## About 
+My full name is Han Duy Nguyen. I am a Data Science enthusiast who is interested in applications of Artificial Intelligient for solving real world's problems. 
+Currently, I am a sixth year PhD student at the Mathematical Science department, Carnegie Mellon University.
 
+
+### Markdown
 You can use the [editor on GitHub](https://github.com/HanDuyNguyen/HanDuyNguyen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
