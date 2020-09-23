@@ -3,7 +3,7 @@ My full name is Han Duy Nguyen. I am a Data Science enthusiast who is interested
 Currently, I am a sixth year PhD student at the Mathematical Science department, Carnegie Mellon University.
 
 ## Research
-### <font color='blue'> Optimization for Machine Learning </font>
+### <font color='cyan'> Optimization for Machine Learning </font>
 1. (In progress, tentative title) On the convergence and generalization of adaptive gradient methods with weighted decay.  With Hai Pham, Sashank Reddi, Barnabas Poczos
 2.  [Adaptive  Sampling  Distributed  Stochastic  Variance  Reduced  Gradient  for  Heterogeneous  Dis-tributed Datasets](https://arxiv.org/pdf/2002.08528.pdf). Han Nguyen, Ilqar Ramazanli, Hai Pham, Sashank Reddi, Barnabas Poczos
 
@@ -12,7 +12,7 @@ Currently, I am a sixth year PhD student at the Mathematical Science department,
 
 ## Data Science Projects
 
-### [</font color='blue'>Prostate Cancer Diagnosis, Kaggle (April 2020 - Present)</font>](https://www.kaggle.com/hannguyen/prostrate-cancer-detection)
+### [Prostate Cancer Diagnosis, Kaggle (April 2020 - Present)](https://www.kaggle.com/hannguyen/prostrate-cancer-detection)
 Developed  a  [U-Net](https://arxiv.org/pdf/1505.04597.pdf)  neural  network  using  PyTorch  for  detecting  prostate  cancer tissues on  images  of prostate tissue samples and estimate severity of the disease using the most extensive multi-center dataset on Gleason grading yet available.
 
 ### [Real or Not? NLP with Disaster Tweets, Kaggle (January 2020 - March 2020)](https://github.com/HanDuyNguyen/Projects/blob/master/True%20or%20Fake%20news%20prediction/Embedding_and_LSTM.ipynb)
