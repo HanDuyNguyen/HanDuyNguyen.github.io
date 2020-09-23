@@ -16,3 +16,4 @@ Built an XGBoost model by using scikit-learn library to predict stock movement b
 
 
 ## Support or Contact
+For any question or suggestion about the materials in this page, please contact me at <ndhan91@gmail.com>.
