@@ -5,32 +5,9 @@ Currently, I am a sixth year PhD student at the Mathematical Science department,
 
 ## Current Projects
 ### Prostate Cancer Diagnosis, Kaggle
+Developed  a  [U-Net](https://arxiv.org/pdf/1505.04597.pdf)  neural  network  using  PyTorch  for  detecting  prostate  cancer tissues on  images  of prostate tissue samples and estimate severity of the disease using the most extensive multi-center dataset on Gleason grading yet available.
 
-You can use the [editor on GitHub](https://github.com/HanDuyNguyen/HanDuyNguyen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
