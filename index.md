@@ -11,12 +11,8 @@ Developed  a  [U-Net](https://arxiv.org/pdf/1505.04597.pdf)  neural  network  us
 ### [Real or Not? NLP with Disaster Tweets, Kaggle (January 2020 - March 2020)](https://github.com/HanDuyNguyen/Projects/blob/master/True%20or%20Fake%20news%20prediction/Embedding_and_LSTM.ipynb)
 Built a two-layers Long Short-Term Memory neural network with an additional Embedding layer using TensorFlow/Keras to predict which tweets are about real disasters and which ones are not. Achieved 81% accuracy on the test data.
 
+### [XTX Market Forecasting Challengle, XTX Market (July 2019 - Septemper 2019)](https://github.com/HanDuyNguyen/Projects/blob/master/XTX%20Forecasting%20Challenge/XTX_XGBoost.ipynb)
+Built an XGBoost model by using scikit-learn library to predict stock movement based on the real-market order book data. Achieved 8% mean square error (MSE) on the test data.
 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HanDuyNguyen/HanDuyNguyen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Support or Contact
