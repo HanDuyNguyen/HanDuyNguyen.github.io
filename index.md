@@ -3,11 +3,11 @@ My full name is Han Duy Nguyen. I am a Data Science enthusiast who is interested
 Currently, I am a sixth year PhD student at the Mathematical Science department, Carnegie Mellon University.
 
 ## Research
-### <font color='red'> Optimization for Machine Learning </font>
+### <font color='blue'> Optimization for Machine Learning </font>
 1. (In progress, tentative title) On the convergence and generalization of adaptive gradient methods with weighted decay.  With Hai Pham, Sashank Reddi, Barnabas Poczos
 2.  [Adaptive  Sampling  Distributed  Stochastic  Variance  Reduced  Gradient  for  Heterogeneous  Dis-tributed Datasets](https://arxiv.org/pdf/2002.08528.pdf). Han Nguyen, Ilqar Ramazanli, Hai Pham, Sashank Reddi, Barnabas Poczos
 
-### Bayesian inference and sampling algorithms
+###  <font color='blue'> Bayesian inference and sampling algorithms </font>
 1. (In progress, tentative title) On the mixing-time complexity of generative modeling with DenoisingAuto-Encoders and Langevin Sampling.  With Salil Singh, Holden Lee and Andrej Risteski
 
 ## Data Science Projects
