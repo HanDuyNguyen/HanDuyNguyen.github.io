@@ -7,7 +7,7 @@ Currently, I am a sixth year PhD student at the Mathematical Science department,
 1. (In progress, tentative title) On the convergence and generalization of adaptive gradient methods with weighted decay.  With Hai Pham, Sashank Reddi, Barnabas Poczos
 2.  [Adaptive  Sampling  Distributed  Stochastic  Variance  Reduced  Gradient  for  Heterogeneous  Dis-tributed Datasets](https://arxiv.org/pdf/2002.08528.pdf). Han Nguyen, Ilqar Ramazanli, Hai Pham, Sashank Reddi, Barnabas Poczos
 
-### Bayesian inference and sampling algorithms 
+### Bayesian Inference and Sampling Algorithms 
 1. (In progress, tentative title) On the mixing-time complexity of generative modeling with DenoisingAuto-Encoders and Langevin Sampling.  With Salil Singh, Holden Lee and Andrej Risteski
 
 ## Data Science Projects
