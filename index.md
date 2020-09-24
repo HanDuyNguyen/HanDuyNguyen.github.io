@@ -1,6 +1,6 @@
 ## About 
 My full name is Han Duy Nguyen. I am a Data Science enthusiast who is interested in applications of Artificial Intelligient for solving real world problems. 
-Currently, I am a sixth year PhD student at the Mathematical Science department, Carnegie Mellon University.
+Currently, I am a  PhD student at the Mathematical Science department, Carnegie Mellon University.
 
 ## Research
 ### Optimization for Machine Learning 
