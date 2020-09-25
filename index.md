@@ -11,7 +11,7 @@ Currently, I am a  PhD student at the Mathematical Science department, Carnegie 
 1. (In progress, tentative title) On the mixing-time complexity of generative modeling with DenoisingAuto-Encoders and Langevin Sampling.  With Salil Singh, Holden Lee and Andrej Risteski
 
 ### Reinforcement Learning and Control
-1. [Policy optimization in the face of uncertainty](https://openreview.net/forum?id=HJg3Rp4FwH). Tung Long Vuong, Han Nguyen, Hai Pham, Keneth Tran
+1. [Policy optimization in the face of uncertainty](https://openreview.net/pdf?id=HJg3Rp4FwH). Tung Long Vuong, Han Nguyen, Hai Pham, Keneth Tran
 
 ## Data Science Projects
 
