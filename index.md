@@ -10,6 +10,9 @@ Currently, I am a  PhD student at the Mathematical Science department, Carnegie 
 ### Bayesian Inference and Sampling Algorithms 
 1. (In progress, tentative title) On the mixing-time complexity of generative modeling with DenoisingAuto-Encoders and Langevin Sampling.  With Salil Singh, Holden Lee and Andrej Risteski
 
+### Reinforcement Learning and Control
+1. [Policy optimization in the face of uncertainty](https://openreview.net/forum?id=HJg3Rp4FwH)
+
 ## Data Science Projects
 
 ### Prostate Cancer Diagnosis, Kaggle (April 2020 - Present) [[code](https://www.kaggle.com/hannguyen/prostrate-cancer-detection)]
