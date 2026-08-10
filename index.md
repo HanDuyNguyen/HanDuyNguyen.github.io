@@ -1,6 +1,5 @@
 ## About 
-I am a Data Science enthusiast who is interested in theory and applications of Machine Learning for solving real world problems. 
-Currently, I am a  PhD student at the Mathematical Science department, Carnegie Mellon University.
+I am a Computational Science enthusiast dedicated to using mathematics and programming to solve real-world problems. Previously, I was a PhD student in the Department of Mathematical Sciences at Carnegie Mellon University.
 
 ## Research
 ### Optimization for Machine Learning 
