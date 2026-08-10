@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research
+title: Scientific Computing & Simulation
 ---
 
 # My Research Projects
