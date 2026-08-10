@@ -5,9 +5,7 @@ layout: default
 ## About 
 I am a Computational Science enthusiast dedicated to using mathematics and programming to solve real-world problems. Previously, I was a PhD student in the Department of Mathematical Sciences at Carnegie Mellon University.
 
-## [Go to my Research Page](./research)
-
-## Research
+## My Interests
 ### Optimization for Machine Learning 
 1. (In progress, tentative title) On the convergence and generalization of adaptive gradient methods with weighted decay.  With Hai Pham, Sashank Reddi, Barnabas Poczos
 2.  [Adaptive  Sampling  Distributed  Stochastic  Variance  Reduced  Gradient  for  Heterogeneous  Dis-tributed Datasets](https://arxiv.org/pdf/2002.08528.pdf). Han Nguyen, Ilqar Ramazanli, Hai Pham, Sashank Reddi, Barnabas Poczos
