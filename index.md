@@ -8,8 +8,7 @@ I am a Computational Science enthusiast dedicated to using mathematics and progr
 
 ## My Interests
 ### [Scientific Computing & Simulation](./scientific_computing_and_simulation) 
-1. (In progress, tentative title) On the convergence and generalization of adaptive gradient methods with weighted decay.  With Hai Pham, Sashank Reddi, Barnabas Poczos
-2.  [Adaptive  Sampling  Distributed  Stochastic  Variance  Reduced  Gradient  for  Heterogeneous  Dis-tributed Datasets](https://arxiv.org/pdf/2002.08528.pdf). Han Nguyen, Ilqar Ramazanli, Hai Pham, Sashank Reddi, Barnabas Poczos
+Use physics-driven math equations to simulate reality
 
 ### Bayesian Inference and Sampling Algorithms 
 1. (In progress, tentative title) On the mixing-time complexity of generative modeling with DenoisingAuto-Encoders and Langevin Sampling.  With Salil Singh, Holden Lee and Andrej Risteski
