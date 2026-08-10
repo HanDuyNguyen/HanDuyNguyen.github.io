@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## About 
 I am a Computational Science enthusiast dedicated to using mathematics and programming to solve real-world problems. Previously, I was a PhD student in the Department of Mathematical Sciences at Carnegie Mellon University.
 
